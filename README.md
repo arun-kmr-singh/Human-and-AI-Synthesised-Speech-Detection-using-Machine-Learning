@@ -1,7 +1,7 @@
 # Human Voice vs AI Synthesised Voice Classification using Machine Learning.
 
-#### This Project is Completed in MATLAB. All experiments and model traing is performed in MATLAB. 
-### Key Terms : Machine Learning, Audio Synthesis, Multimedia Forensics, AI Synthesised Audio, Human Voice, Spectral Analyisis.
+#### *This Project is Completed in MATLAB. All experiments and model traing is performed in MATLAB.* 
+### Key Terms : #### *Machine Learning, Audio Synthesis, Multimedia Forensics, AI Synthesised Audio, Human Voice, Spectral Analyisis.*
 
 **Abstarct** : 
 
